@@ -1,0 +1,5 @@
+documentLoaded = ->
+	alert('bjr');
+
+
+documentLoaded();

@@ -1,0 +1,1 @@
+{"version":3,"sources":["jquery.js"],"names":[],"mappings":"AAAA;AAAA,MAAA;;EAAA,KAAA,GAAQ,SAAA;WACP,KAAA,CAAM,KAAN;EADO;;EAIR,KAAA,CAAA;AAJA","file":"app.js","sourcesContent":["ready = ->\n\talert('bjr');\n\n\nready();"],"sourceRoot":"/source/"}
